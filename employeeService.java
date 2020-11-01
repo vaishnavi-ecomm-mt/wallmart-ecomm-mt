@@ -1,0 +1,3 @@
+Hello im copying content from MT. 
+Hello Guys
+Assume this is a java classs....
