@@ -3,4 +3,5 @@ for git developement branch
 from master branch
 for stage branch
 nd for git stach testing
-sh url 
+sh url
+to check https
